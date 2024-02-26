@@ -1,2 +1,2 @@
-Number Guessing Game
+Number_Guessing_Game
 
