@@ -1,2 +1,2 @@
-Number_Guessing_Game
+COdeAlpha_Number_Guessing_Game
 
